@@ -37,7 +37,7 @@ let g:blamer_prefix = ' > '
 
 " Coc Config  extensions
 let g:coc_global_extensions = ['coc-copilot','coc-css','coc-cssmodules','coc-discord','coc-diagnostic','coc-discord-rpc',
-                              \'coc-docker','coc-docker','coc-eslint','coc-fzf-preview','coc-html','coc-htmldjango',
+                              \'coc-docker','coc-docker','coc-eslint','coc-html','coc-htmldjango',
                               \'coc-html-css-support','coc-java','coc-jedi','coc-json','@yaegassy/coc-nginx','coc-prettier',
                               \'coc-pydocstring','coc-pyright','coc-python','coc-sh','coc-sql','coc-tsserver','coc-webview',
                               \'coc-xml','coc-xml']
