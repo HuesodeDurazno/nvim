@@ -41,3 +41,13 @@ let g:coc_global_extensions = ['coc-copilot','coc-css','coc-cssmodules','coc-dis
                               \'coc-html-css-support','coc-java','coc-jedi','coc-json','@yaegassy/coc-nginx','coc-prettier',
                               \'coc-pydocstring','coc-pyright','coc-python','coc-sh','coc-sql','coc-tsserver','coc-webview',
                               \'coc-xml','coc-xml']
+
+" Easy motion
+
+map  / <Plug>(easymotion-sn)
+omap / <Plug>(easymotion-tn)
+
+map  n <Plug>(easymotion-next)
+map  N <Plug>(easymotion-prev)
+
+" Airline config

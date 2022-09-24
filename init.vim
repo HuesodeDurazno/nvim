@@ -43,8 +43,13 @@ nnoremap <Leader>> 10<C-w>>
 nnoremap <Leader>; $a;<Esc>
 
 " diagnostic
-nnoremap <Leader>fr :let @*=expand("%")<CR>
+nnoremap <Leader>dr :let @*=expand("%")<CR>
 
 " Terminal
 nnoremap <Leader>tv :botright vnew <Bar> :terminal<cr>
 nnoremap <Leader>th :botright new <Bar> :terminal<cr>
+
+" Add line without insert mode
+
+nnoremap <Leader>o o<Esc>
+nnoremap <Leader>O O<Esc>

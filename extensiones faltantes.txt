@@ -1,19 +1,4 @@
-vim terminal
-awesome color schemes
-easymotion
-coc configyuration
-anotar comandos
-hireline falta verificar en que rama estamos 
-
-
-pasar a wsl para mas placer
-
-"silicon
-"minimap
 "iluminate ***no ilumina
-"Coc search bettatech
-emmet
-
-necesitamos verificar comandos
+verificar funcionamiento en windows
 
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
