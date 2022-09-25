@@ -31,5 +31,6 @@ call plug#begin()
 	Plug 'APZelos/blamer.nvim' "like git lengs
 	Plug 'easymotion/vim-easymotion' "fast navigator
 	Plug 'mattn/emmet-vim'
+	Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 
 call plug#end()

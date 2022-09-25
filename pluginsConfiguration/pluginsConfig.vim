@@ -50,5 +50,3 @@ omap / <Plug>(easymotion-tn)
 
 map  n <Plug>(easymotion-next)
 map  N <Plug>(easymotion-prev)
-
-" Airline config
