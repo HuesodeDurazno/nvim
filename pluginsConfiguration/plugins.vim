@@ -30,8 +30,6 @@ call plug#begin()
 	Plug 'luochen1990/rainbow' "rainbow parentheses
 	Plug 'APZelos/blamer.nvim' "like git lengs
 	Plug 'easymotion/vim-easymotion' "fast navigator
-	Plug 'wfxr/minimap.vim' "minimap
-	Plug 'segeljakt/vim-silicon' "Code capture
 	Plug 'mattn/emmet-vim'
 
 call plug#end()

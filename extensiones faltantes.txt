@@ -1,4 +1,4 @@
-"iluminate ***no ilumina
-verificar funcionamiento en windows
+iniciar en ruta en disco C
+configurar terminal apariencia solamente
 
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}

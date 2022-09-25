@@ -19,12 +19,12 @@ set splitbelow "Open buffer below
 
 
 " :::Agregamos Plugins
-" source ~/.config/nvim/pluginsConfiguration/plugins.vim
-source ~/AppData/Local/nvim/pluginsConfiguration/plugins.vim
+ source ~/.config/nvim/pluginsConfiguration/plugins.vim
+" source ~/AppData/Local/nvim/pluginsConfiguration/plugins.vim
 
 " ::: Add plugins configuration
-" source ~/.config/nvim/pluginsConfiguration/pluginsConfig.vim
-source ~/AppData/Local/nvim/pluginsConfiguration/pluginsConfig.vim
+source ~/.config/nvim/pluginsConfiguration/pluginsConfig.vim
+" source ~/AppData/Local/nvim/pluginsConfiguration/pluginsConfig.vim
 
 "mueve bloques de codigo en modo visual o V-Line
 xnoremap K :move '<-2<CR>gv-gv
