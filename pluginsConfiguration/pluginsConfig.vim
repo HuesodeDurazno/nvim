@@ -22,7 +22,8 @@ let NERDTreeShowHidden = 1
 nmap <F8> :TagbarToggle<CR>
 
 " ::: Coc Configuration :::
-source ~/.config/nvim/pluginsConfiguration/cocConfig.vim
+" source ~/.config/nvim/pluginsConfiguration/cocConfig.vim
+source ~/appData/Local/nvim/pluginsConfiguration/cocConfig.vim
 
 " ::: fzf Configuration :::
 map <Leader>p :Files<CR>
